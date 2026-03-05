@@ -20,7 +20,7 @@ and game loop logic.
 - `main.py` — Main game code and logic
 -  `food.py` — The object that causes the growth of the snake
 -  `scoreboard.py` — Accumulation of food eaten
--  `snake.py` — The snake shown in the screen
+-  `bodyofsnake.py` — The snake shown in the screen
 - Screenshots — Gameplay visuals
 
 ## 🎥 More Projects & Demos
